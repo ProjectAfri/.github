@@ -1,2 +1,2 @@
 # .github
-Pushing the boundaries of speech technology in Africa.
+Pushing the boundaries of AI for speech technology in Africa.
